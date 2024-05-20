@@ -46,16 +46,6 @@ pip install folium geopandas geovoronoi matplotlib numpy osmnx pandas scipy seab
 conda install -c conda-forge folium geopandas geovoronoi matplotlib numpy osmnx pan`
 ```
 
-## Installation
-
-Clone the repository and install the required dependencies:
-```bash
-git clone https://github.com/yourusername/BikeSharingPrediction.git
-cd BikeSharingPrediction
-pip install -r requirements.txt
-```
-
-
 ## Usage
 
 You can run the notebooks in order to follow the data processing and modeling steps:
